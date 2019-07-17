@@ -3,9 +3,9 @@
 
 
 """
-�˽ű����ڴ���ossϵͳ�ϴ�/����/չʾ�ļ�!
-��ʹ����֮ǰ����Ӧ��ȷ��python�а�:oss2
-��װ��ʽ:pip install oss2
+此脚本用于从云oss系统上传/下载/展示文件!
+在使用它之前，您应该确保python有包:oss2
+安装方式:pip install oss2
 
 Usage:
   Downlaod files:
@@ -27,3 +27,5 @@ NOTES:
     just for free transform.
 
 """
+
+#注:此脚本摘自腾讯云
